@@ -53,20 +53,15 @@ export default class Game extends React.Component
              return
          }
          
-        // this.setState({
-        //     temp: temp.concat({
-        //         boxes:arr
-        //     }),
-        //     flag : !this.state.flag,
-        //    count: temp.length,
-        // })
        
     }
     render(){
         const temp =this.state.previous
-    
+        
     return(
+        
         <Board onclick={(i)=>this.handleclick(i)} square={temp[temp.length-1].boxes} />
+        
     )
     
     }
