@@ -7,18 +7,26 @@ body{
   overflow: hidden;
 }
 h1{
-  position: absolute;
-  top: 0;
+  position: fixed;
+  top :0;
+  left:0;
   right: 0;
-  bottom: 0;
-  left: 0;
-  margin: 0;
-  font-size: 100px;
-  font-weight: 300;
-  line-height: 1.5;
   text-align: center;
   color:linen;
-  animation: animate 15s linear alternate infinite;
+  font-size: 70px;
+	    text-align: center;
+      line-height: 9px;
+	    color:black;
+	    
+	   	font-family:  cursive;
+	    font-weight: 700;
+      text-shadow: 5px 5px 0px #eb452b, 
+                  10px 10px 0px #efa032, 
+                  15px 15px 0px #46b59b, 
+                  20px 20px 0px #017e7f, 
+                  25px 25px 0px #052939
+                  
+                  
 }
 h4{
   
