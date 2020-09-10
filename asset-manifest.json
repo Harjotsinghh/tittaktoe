@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tittaktoe/static/css/main.2dd35dc8.chunk.css",
+    "main.js": "/tittaktoe/static/js/main.1ef020e7.chunk.js",
+    "main.js.map": "/tittaktoe/static/js/main.1ef020e7.chunk.js.map",
+    "runtime-main.js": "/tittaktoe/static/js/runtime-main.0afe2287.js",
+    "runtime-main.js.map": "/tittaktoe/static/js/runtime-main.0afe2287.js.map",
+    "static/js/2.142e2909.chunk.js": "/tittaktoe/static/js/2.142e2909.chunk.js",
+    "static/js/2.142e2909.chunk.js.map": "/tittaktoe/static/js/2.142e2909.chunk.js.map",
+    "index.html": "/tittaktoe/index.html",
+    "precache-manifest.3485169685f84072a6518210a1522309.js": "/tittaktoe/precache-manifest.3485169685f84072a6518210a1522309.js",
+    "service-worker.js": "/tittaktoe/service-worker.js",
+    "static/css/main.2dd35dc8.chunk.css.map": "/tittaktoe/static/css/main.2dd35dc8.chunk.css.map",
+    "static/js/2.142e2909.chunk.js.LICENSE.txt": "/tittaktoe/static/js/2.142e2909.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0afe2287.js",
+    "static/js/2.142e2909.chunk.js",
+    "static/css/main.2dd35dc8.chunk.css",
+    "static/js/main.1ef020e7.chunk.js"
+  ]
+}
