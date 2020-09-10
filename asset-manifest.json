@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/tittaktoe/static/css/main.519cdff5.chunk.css",
-    "main.js": "/tittaktoe/static/js/main.938f74aa.chunk.js",
-    "main.js.map": "/tittaktoe/static/js/main.938f74aa.chunk.js.map",
+    "main.css": "/tittaktoe/static/css/main.b7a365f5.chunk.css",
+    "main.js": "/tittaktoe/static/js/main.b5033f70.chunk.js",
+    "main.js.map": "/tittaktoe/static/js/main.b5033f70.chunk.js.map",
     "runtime-main.js": "/tittaktoe/static/js/runtime-main.0afe2287.js",
     "runtime-main.js.map": "/tittaktoe/static/js/runtime-main.0afe2287.js.map",
     "static/js/2.142e2909.chunk.js": "/tittaktoe/static/js/2.142e2909.chunk.js",
     "static/js/2.142e2909.chunk.js.map": "/tittaktoe/static/js/2.142e2909.chunk.js.map",
     "index.html": "/tittaktoe/index.html",
-    "precache-manifest.68a639777c306f822a2c382ba67b6de7.js": "/tittaktoe/precache-manifest.68a639777c306f822a2c382ba67b6de7.js",
+    "precache-manifest.398c56ad96b1764fd264aeb25b0ae504.js": "/tittaktoe/precache-manifest.398c56ad96b1764fd264aeb25b0ae504.js",
     "service-worker.js": "/tittaktoe/service-worker.js",
-    "static/css/main.519cdff5.chunk.css.map": "/tittaktoe/static/css/main.519cdff5.chunk.css.map",
-    "static/js/2.142e2909.chunk.js.LICENSE.txt": "/tittaktoe/static/js/2.142e2909.chunk.js.LICENSE.txt"
+    "static/css/main.b7a365f5.chunk.css.map": "/tittaktoe/static/css/main.b7a365f5.chunk.css.map",
+    "static/js/2.142e2909.chunk.js.LICENSE.txt": "/tittaktoe/static/js/2.142e2909.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tittaktoe/static/media/wp2856244.efbd1e5b.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.0afe2287.js",
     "static/js/2.142e2909.chunk.js",
-    "static/css/main.519cdff5.chunk.css",
-    "static/js/main.938f74aa.chunk.js"
+    "static/css/main.b7a365f5.chunk.css",
+    "static/js/main.b5033f70.chunk.js"
   ]
 }
