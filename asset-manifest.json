@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tittaktoe/static/css/main.b7a365f5.chunk.css",
+    "main.css": "/tittaktoe/static/css/main.cde3c499.chunk.css",
     "main.js": "/tittaktoe/static/js/main.b5033f70.chunk.js",
     "main.js.map": "/tittaktoe/static/js/main.b5033f70.chunk.js.map",
     "runtime-main.js": "/tittaktoe/static/js/runtime-main.0afe2287.js",
@@ -8,16 +8,15 @@
     "static/js/2.142e2909.chunk.js": "/tittaktoe/static/js/2.142e2909.chunk.js",
     "static/js/2.142e2909.chunk.js.map": "/tittaktoe/static/js/2.142e2909.chunk.js.map",
     "index.html": "/tittaktoe/index.html",
-    "precache-manifest.398c56ad96b1764fd264aeb25b0ae504.js": "/tittaktoe/precache-manifest.398c56ad96b1764fd264aeb25b0ae504.js",
+    "precache-manifest.a0d8eec76e5cfbfb2f8c2d08b3c5cc66.js": "/tittaktoe/precache-manifest.a0d8eec76e5cfbfb2f8c2d08b3c5cc66.js",
     "service-worker.js": "/tittaktoe/service-worker.js",
-    "static/css/main.b7a365f5.chunk.css.map": "/tittaktoe/static/css/main.b7a365f5.chunk.css.map",
-    "static/js/2.142e2909.chunk.js.LICENSE.txt": "/tittaktoe/static/js/2.142e2909.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/tittaktoe/static/media/wp2856244.efbd1e5b.gif"
+    "static/css/main.cde3c499.chunk.css.map": "/tittaktoe/static/css/main.cde3c499.chunk.css.map",
+    "static/js/2.142e2909.chunk.js.LICENSE.txt": "/tittaktoe/static/js/2.142e2909.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0afe2287.js",
     "static/js/2.142e2909.chunk.js",
-    "static/css/main.b7a365f5.chunk.css",
+    "static/css/main.cde3c499.chunk.css",
     "static/js/main.b5033f70.chunk.js"
   ]
 }
